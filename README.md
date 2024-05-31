@@ -1,1 +1,1 @@
-This is a README file
+This repository contains various shell scripts for basic operations.
