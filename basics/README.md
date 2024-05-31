@@ -1,1 +1,1 @@
-This script lists the contents of the current directory in long format.
+1-listit: This script lists the contents of the current directory.
