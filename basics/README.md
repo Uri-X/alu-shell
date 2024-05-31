@@ -1,1 +1,1 @@
-1-listit: This script lists the contents of the current directory.
+2-change_to_home: This script changes the working directory to the user's home directory.
