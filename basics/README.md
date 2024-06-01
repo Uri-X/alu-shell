@@ -1,1 +1,1 @@
-13-symbolic_link: This script creates a symbolic link to /bin/ls named __ls__ in the current working directory.
+14-copy_html: This script copies all HTML files from the current working directory to the parent directory, but only if they did not exist in the parent directory or were newer than the versions in the parent directory.
