@@ -1,1 +1,1 @@
-3-listfiles: This script displays the current directory contents in a long format.
+4-listmorefiles: This script displays the current directory contents, including hidden files, in a long format.
