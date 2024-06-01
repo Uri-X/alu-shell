@@ -1,1 +1,1 @@
-14-copy_html: This script copies all HTML files from the current working directory to the parent directory, but only if they did not exist in the parent directory or were newer than the versions in the parent directory.
+15-lets_move: This script moves all files beginning with an uppercase letter to the directory /tmp/u.
