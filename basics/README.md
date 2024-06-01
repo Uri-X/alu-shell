@@ -1,1 +1,1 @@
-5-listfilesdigitonly: This script displays the current directory contents in a long format, including hidden files, with user and group IDs displayed numerically.
+6-firstdirectory: This script creates a directory named my_first_directory in the /tmp/ directory.
