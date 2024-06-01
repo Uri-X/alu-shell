@@ -1,1 +1,1 @@
-This script sets the mode of the file 'hello' to be the same as the mode of the file 'olleh'.
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users, while leaving regular files unchanged.
