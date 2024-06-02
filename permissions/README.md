@@ -1,1 +1,1 @@
-This script changes the owner and the group owner of the symbolic link '_hello' to 'vincent' and 'staff' respectively.
+This script changes the owner of the file 'hello' to 'vincent' only if it is owned by the user 'guillaume'.
